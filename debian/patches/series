@@ -10,7 +10,7 @@ fix.win32.out-pass.mode.579533.patch
 695717-no-cpio.info.patch
 fix.win32.undef.stat.patch
 fix.mt-erase.manpage.patch
-revert-CVE-2015-1197-handling.patch
 CVE-2021-38185.patch
 CVE-2021-38185.2.patch
 CVE-2021-38185.3.patch
+CVE-2023-7207.patch
